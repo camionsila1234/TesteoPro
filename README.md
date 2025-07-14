@@ -1,9 +1,7 @@
 <!-- Banner (opcional) -->
-<!--
 <p align="center">
   <img src="https://imgur.com/a/Mr0hogx" alt="Banner Kevin Perdomo" width="100%" />
 </p>
--->
 
 <h1 align="center">¡Hola, mundo! 👋 Soy Kevin Perdomo 🚀</h1>
 
