@@ -50,7 +50,7 @@
 ## 📫 ¡Hablemos!
 
 - **Email:** ksperdomo108@gmail.com  
-- **LinkedIn:** [Kevin Perdomo](https://www.linkedin.com/in/tuusuario)
+- **LinkedIn:** [Kevin Perdomo](https://co.linkedin.com/in/kevin-blocks-850a20363)
 
 ---
 
