@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/Q65NpGZ.jpeg" alt="Banner Kevin Perdomo" width="100%" />
 </p>
 
-<h1 align="center">¡Hola, mundo! 👋 Soy Kevin Perdomo 🚀</h1>
+<h1 align="center">¡Hola, mundo!</h1>
 
 <p align="center">
   💻 Desarrollador web • 🕹 Creador de videojuegos • 📊 Explorador de datos
