@@ -1,7 +1,7 @@
 <!-- Banner (opcional) -->
 <!--
 <p align="center">
-  <img src="URL_DE_TU_BANNER" alt="Banner Kevin Perdomo" width="100%" />
+  <img src="https://imgur.com/a/Mr0hogx" alt="Banner Kevin Perdomo" width="100%" />
 </p>
 -->
 
