@@ -39,7 +39,7 @@
 
 ---
 
-## 💼 Algunos proyectos chulos
+## 💼 Algunos proyectos
 
 - **Webs creativas** con diseños en modo oscuro, para cuidar tus retinas.  
 - **Mini juegos** en Unity que algún día serán épicos.  
