@@ -50,8 +50,7 @@
 ## 📫 ¡Hablemos!
 
 - **Email:** ksperdomo108@gmail.com  
-- **LinkedIn:** [Kevin Perdomo](https://www.linkedin.com/in/tuusuario) _(opcional)_  
-- **Twitter/X:** [@tuusuario](https://twitter.com/tuusuario) _(opcional)_  
+- **LinkedIn:** [Kevin Perdomo](https://www.linkedin.com/in/tuusuario)
 
 ---
 
